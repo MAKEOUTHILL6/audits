@@ -202,7 +202,7 @@ In `acceptOwnership` after setting the owner, set the `pendingOwner = address(0)
     }
 ```
 
-`setAdminFee` can be called by anyone as it is missing acess control.
+`setAdminFee` can be called by anyone as it is missing access control.
 
 ## Recommendations
 
