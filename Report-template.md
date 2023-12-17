@@ -1,6 +1,6 @@
 # Introduction
 
-A time-boxed security review of the **protocol name** protocol was done by **MAKEOUTHILL**, with a focus on the security aspects of the application's implementation.
+A time-boxed security review of **protocol name** protocol was done by **MAKEOUTHILL**, with a focus on the security aspects of the application's implementation.
 
 # Disclaimer
 
